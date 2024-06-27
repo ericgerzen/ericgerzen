@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Golfito](https://github.com/elmUffins/Golfito)
 
-- 🌱 I’m currently learning **Python, C#**
+- 🌱 I’m currently learning **Python, C#, JavaScript**
 
 - ⚡ Fun fact **I'm proficient in English**
 
