@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmuffins&label=Profile%20views&color=0e75b6&style=flat" alt="elmuffins" /> </p>
 
-- 🔭 I’m currently working on [Golfito](https://github.com/elmUffins/Golfito)
+- 🔭 I’m currently working on [Golfito](https://github.com/ericgerzen/Golfito)
 
 - 🌱 I’m currently learning **Python, Javascript, MySQL**
 
